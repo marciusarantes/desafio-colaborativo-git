@@ -1,4 +1,6 @@
-# desafio-colaborativo-git
+# 🚀 Desafio Colaborativo Git
+
+> Projeto da atividade de versionamento em equipe com Git e GitHub.
 
 ## Membros da equipe
 
