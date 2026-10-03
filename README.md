@@ -1,9 +1,7 @@
-# 🚀 Desafio Colaborativo Git
+## Redes Sociais
 
-> Projeto da atividade de versionamento em equipe com Git e GitHub.
-
-## Membros da equipe
-
-- **Marcius**: líder do repositório
-- **Sidney**: integrante
-- **Gustavo**: integrante
+| Integrante | GitHub | Instagram |
+|---|---|---|
+| Marcius | [@marciusarantes](https://github.com/marciusarantes) | @marcius |
+| Sidney | [@seuusuario](https://github.com/seuusuario) | @seuinstagram |
+| gustavo | [@usuario](https://github.com/usuario) | @instagram |
