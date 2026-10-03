@@ -7,3 +7,11 @@
 - **Marcius**: líder do repositório
 - **Sidney**: integrante
 - **Gustavo**: integrante
+
+## Linguagens aprendidas
+
+- HTML
+- CSS
+- JavaScript
+- Python
+ 
